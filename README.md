@@ -1,4 +1,4 @@
-# !Olá, sou a Renata Cappucci! 
+# Olá, sou a Renata Cappucci! 
 
 ✨ QA Analyst | Exploradora do mundo digital e real 🌍  
 🎯 Apaixonada por qualidade, eficiência e liberdade com propósito  
