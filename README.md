@@ -1,4 +1,4 @@
-# [![Olá, sou Renata Cappucci 👋](https://git.io/typing-svg) 
+# Olá! Sou Renata Cappucci!
 
 ✨ QA Analyst | Exploradora do mundo digital e real 🌍  
 🎯 Apaixonada por qualidade, eficiência e liberdade com propósito  
