@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8F5E3B&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+a+Renata+Cappucci!+👋🏼" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8F5E3B&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+a+Renata+Cappucci!+👋🏼" alt="Renata Cappucci typing animation" />
 </p>
 
 ✨ QA Analyst | Exploradora do mundo digital e real 🌍  
