@@ -25,7 +25,7 @@
 
 ## 📫 Vamos nos conectar?
 
-- 💼 [LinkedIn](www.linkedin.com/in/renata-cappucci-)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/renata-cappucci-/)  
 - 📸 [Instagram](https://www.instagram.com/recappucci)  
 - 💌 Email: renatacappucci@gmail.com  
 
