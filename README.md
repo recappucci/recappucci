@@ -15,14 +15,6 @@
 
 ---
 
-## 🎯 Meus objetivos
-
-- Evoluir como Engenheira de Qualidade  
-- Unir tecnologia, liberdade geográfica e propósito de vida  
-- Contribuir com a comunidade de QA, especialmente mulheres na área  
-
----
-
 ## 📫 Vamos nos conectar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/renata-cappucci-/)  
