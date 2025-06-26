@@ -6,7 +6,7 @@
 
 ---
 
-## 🧪 Tecnologias e Ferramentas
+## 👉 Tecnologias e Ferramentas
 
 - **Testes**: Cypress, Robot Framework, Selenium, Postman  
 - **Gerenciamento**: Jira, Xray, TestRail  
