@@ -8,9 +8,9 @@
 
 ## 👉 Tecnologias e Ferramentas
 
-- **Testes**: Cypress, Robot Framework, Selenium, Postman  
+- **Testes**: Cypress, Robot Framework, Selenium, Postman, SQL   
 - **Gerenciamento**: Jira, Xray, TestRail  
-- **Linguagens**: JavaScript, Java, SQL   
+- **Linguagens**: JavaScript, Java
 - **Metodologias**: Scrum, Kanban  
 
 ---
